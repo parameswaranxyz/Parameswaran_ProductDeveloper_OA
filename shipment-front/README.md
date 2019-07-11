@@ -1,12 +1,12 @@
-It is a react front end application for shipments chart.
+It is a react front end application for shipments chart.<br />
 It need node version 10 or higher.
 
-To run app:
-    cd shipment-front
-    npm install
-    npm run start
+To run app: <br/>
+- cd shipment-front
+- npm install
+- npm run start
 
-App will start in localhost:3000
-Now config file can be upload. sample config file - CircleVizConfig.json
-And graph can be generated.
+App will start in localhost:3000 <br/>
+Now config file can be upload. sample config file - CircleVizConfig.json <br/>
+And graph can be generated. <br/>
 
